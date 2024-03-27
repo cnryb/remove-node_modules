@@ -1,0 +1,16 @@
+{
+  "name": "remove-node_modules",
+  "version": "1.0.0",
+  "description": "Find all node_modules directories in the specified directory and delete them",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "keywords": [],
+  "author": "cnryb@live.cn",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.3"
+  }
+}
